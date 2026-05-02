@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "—͞ WHITE",
+  "nickNameBot": "𝐀︭𝐧︭𝐠𝐞︭𝐥︭𝐬︭ 𝟖𝟖 ≺ 🪽",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
@@ -60,10 +60,10 @@
     "notesSleep": "Hours (0-23) when the bot simulates sleeping: reduces activity, goes offline, rarely browses."
   },
   "adminBot": [
-    "61583835186508",
-    "61583739652803",
-    "61568065558392",
-    "61552218617922"
+    "100004193852226",
+    "",
+    "",
+    ""
   ],
   "noteAdminBot": "Level 2 — Bot moderators. Can use all admin commands except super-admin-only actions.",
   "humanTyping": {
